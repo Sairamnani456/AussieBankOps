@@ -1,4 +1,5 @@
 # AussieBankOps
+[![Python CI](https://github.com/Sairamnani456/AussieBankOps/actions/workflows/python-ci.yml/badge.svg)](https://github.com/Sairamnani456/AussieBankOps/actions/workflows/python-ci.yml)
 
 A beginner DevOps-style banking API project built with Flask and SQLite.
 
